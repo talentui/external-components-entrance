@@ -1,5 +1,5 @@
 {
-  "name": "external-components-entrance",
+  "name": "@talentui/external-components-entrance",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/talentui/external-components-entrance.git",
